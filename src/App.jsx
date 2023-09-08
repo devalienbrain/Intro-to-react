@@ -10,12 +10,12 @@ function App() {
     <>
       <h3>Things to know about React</h3>
       <ol>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Components</li>
+        <li>JSX</li>
+        <li>Props</li>
+        <li>Event handler</li>
+        <li>State</li>
+        <li>Load data</li>
       </ol>
     </>
   )
